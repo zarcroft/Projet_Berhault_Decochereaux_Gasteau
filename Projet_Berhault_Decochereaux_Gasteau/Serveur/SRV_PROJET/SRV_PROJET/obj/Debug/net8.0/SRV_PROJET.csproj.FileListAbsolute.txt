@@ -1,0 +1,14 @@
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\bin\Debug\net8.0\SRV_PROJET.exe
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\bin\Debug\net8.0\SRV_PROJET.deps.json
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\bin\Debug\net8.0\SRV_PROJET.runtimeconfig.json
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\bin\Debug\net8.0\SRV_PROJET.dll
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\bin\Debug\net8.0\SRV_PROJET.pdb
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.AssemblyInfoInputs.cache
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.AssemblyInfo.cs
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.csproj.CoreCompileInputs.cache
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.dll
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\refint\SRV_PROJET.dll
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.pdb
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\SRV_PROJET.genruntimeconfig.cache
+C:\Users\zarcr\source\repos\SRV_PROJET\SRV_PROJET\obj\Debug\net8.0\ref\SRV_PROJET.dll
